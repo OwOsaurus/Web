@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: 'Prompt', sans-serif;
+    color: white;
+    background: #202731;
+    overflow-x: hidden;
+}
+
+.hero{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    min-height: 600px;
+    padding: 100px 20vw;
+    background-color: #46A094
+}
